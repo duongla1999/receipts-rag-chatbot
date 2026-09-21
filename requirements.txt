@@ -1,0 +1,30 @@
+# --- Core ---
+python-dotenv==1.0.1
+
+# --- Xu ly anh & OCR ---
+opencv-python==4.10.0.84
+Pillow==10.4.0
+pytesseract==0.3.13
+# paddleocr==2.8.1          # phuong an thay the cho pytesseract - team chon 1 trong 2 roi bo comment dong tuong ung
+PyMuPDF==1.24.10             # doc file PDF hoa don, convert sang anh de OCR
+
+# --- Data validation & processing ---
+pydantic==2.9.2
+pandas==2.2.3
+
+# --- Database ---
+SQLAlchemy==2.0.35
+
+# --- RAG / Vector DB / Embedding ---
+chromadb==0.5.15
+sentence-transformers==3.1.1
+
+# --- LLM local ---
+ollama==0.3.3
+
+# --- Giao dien & bieu do ---
+streamlit==1.39.0
+plotly==5.24.1
+
+# --- Testing ---
+pytest==8.3.3

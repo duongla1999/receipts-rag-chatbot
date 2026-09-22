@@ -27,7 +27,7 @@ class Receipt(Base):
     documents: Mapped[list["ReceiptDocument"]] = relationship(back_populates="receipt", cascade="all, delete-orphan")
 
 class ReceiptItem(Base):
-    __tablename__ = "receipts_items"
+    __tablename__ = "receipt_items"
 
     id: Mapped[int] = mapped_column(primary_key=True)
     receipts_id: Mapped[int] = mapped_column(ForeignKey("receipts.id"))

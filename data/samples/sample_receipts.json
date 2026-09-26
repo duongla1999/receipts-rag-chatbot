@@ -1,0 +1,114 @@
+[
+  {
+    "receipt_id": "receipt_001",
+    "store_name": "REWE",
+    "store_address": "Hannover",
+    "purchase_date": "2026-07-05",
+    "purchase_time": "18:22",
+    "currency": "EUR",
+    "items": [
+      {"raw_name": "MILCH 3,5%", "normalized_name": "Vollmilch", "quantity": 2, "unit_price": 1.29, "total_price": 2.58, "category": "Dairy"},
+      {"raw_name": "BANANEN", "normalized_name": "Bananen", "quantity": 1.1, "unit": "kg", "unit_price": 1.79, "total_price": 1.97, "category": "Fruit"},
+      {"raw_name": "VOLLKORNBROT", "normalized_name": "Vollkornbrot", "quantity": 1, "unit_price": 2.49, "total_price": 2.49, "category": "Bakery"}
+    ],
+    "subtotal": 7.04, "tax": 0.46, "total": 7.04, "payment_method": "Card"
+  },
+  {
+    "receipt_id": "receipt_002",
+    "store_name": "Lidl",
+    "store_address": "Hannover",
+    "purchase_date": "2026-07-12",
+    "purchase_time": "17:05",
+    "currency": "EUR",
+    "items": [
+      {"raw_name": "EIER 10ER", "normalized_name": "Eier", "quantity": 1, "unit_price": 2.99, "total_price": 2.99, "category": "Dairy"},
+      {"raw_name": "BUTTER", "normalized_name": "Butter", "quantity": 1, "unit_price": 2.19, "total_price": 2.19, "category": "Dairy"},
+      {"raw_name": "TOMATEN", "normalized_name": "Tomaten", "quantity": 0.6, "unit": "kg", "unit_price": 1.99, "total_price": 1.19, "category": "Vegetable"}
+    ],
+    "subtotal": 6.37, "tax": 0.42, "total": 6.37, "payment_method": "Cash"
+  },
+  {
+    "receipt_id": "receipt_003",
+    "store_name": "REWE",
+    "store_address": "Hannover",
+    "purchase_date": "2026-07-20",
+    "purchase_time": "19:10",
+    "currency": "EUR",
+    "items": [
+      {"raw_name": "H-MILCH", "normalized_name": "Vollmilch", "quantity": 1, "unit_price": 1.29, "total_price": 1.29, "category": "Dairy"},
+      {"raw_name": "GOUDA", "normalized_name": "Kaese", "quantity": 1, "unit_price": 2.79, "total_price": 2.79, "category": "Dairy"},
+      {"raw_name": "APFEL", "normalized_name": "Apfel", "quantity": 1.2, "unit": "kg", "unit_price": 2.49, "total_price": 2.99, "category": "Fruit"}
+    ],
+    "subtotal": 7.07, "tax": 0.46, "total": 7.07, "payment_method": "Card"
+  },
+  {
+    "receipt_id": "receipt_004",
+    "store_name": "Edeka",
+    "store_address": "Hannover",
+    "purchase_date": "2026-08-02",
+    "purchase_time": "16:40",
+    "currency": "EUR",
+    "items": [
+      {"raw_name": "JOGHURT NATUR", "normalized_name": "Joghurt", "quantity": 2, "unit_price": 1.09, "total_price": 2.18, "category": "Dairy"},
+      {"raw_name": "BANANEN", "normalized_name": "Bananen", "quantity": 0.9, "unit": "kg", "unit_price": 1.79, "total_price": 1.61, "category": "Fruit"},
+      {"raw_name": "NUDELN", "normalized_name": "Nudeln", "quantity": 2, "unit_price": 0.99, "total_price": 1.98, "category": "Pantry"}
+    ],
+    "subtotal": 5.77, "tax": 0.38, "total": 5.77, "payment_method": "Card"
+  },
+  {
+    "receipt_id": "receipt_005",
+    "store_name": "Aldi",
+    "store_address": "Hannover",
+    "purchase_date": "2026-08-10",
+    "purchase_time": "18:55",
+    "currency": "EUR",
+    "items": [
+      {"raw_name": "VOLLMILCH 1L", "normalized_name": "Vollmilch", "quantity": 3, "unit_price": 1.25, "total_price": 3.75, "category": "Dairy"},
+      {"raw_name": "KARTOFFELN", "normalized_name": "Kartoffeln", "quantity": 1, "unit_price": 2.29, "total_price": 2.29, "category": "Vegetable"},
+      {"raw_name": "BROT", "normalized_name": "Vollkornbrot", "quantity": 1, "unit_price": 2.29, "total_price": 2.29, "category": "Bakery"}
+    ],
+    "subtotal": 8.33, "tax": 0.54, "total": 8.33, "payment_method": "Cash"
+  },
+  {
+    "receipt_id": "receipt_006",
+    "store_name": "Lidl",
+    "store_address": "Hannover",
+    "purchase_date": "2026-08-18",
+    "purchase_time": "17:30",
+    "currency": "EUR",
+    "items": [
+      {"raw_name": "EIER 10ER", "normalized_name": "Eier", "quantity": 1, "unit_price": 2.99, "total_price": 2.99, "category": "Dairy"},
+      {"raw_name": "REIS", "normalized_name": "Reis", "quantity": 1, "unit_price": 1.89, "total_price": 1.89, "category": "Pantry"},
+      {"raw_name": "TOMATEN", "normalized_name": "Tomaten", "quantity": 0.7, "unit": "kg", "unit_price": 1.99, "total_price": 1.39, "category": "Vegetable"}
+    ],
+    "subtotal": 6.27, "tax": 0.41, "total": 6.27, "payment_method": "Card"
+  },
+  {
+    "receipt_id": "receipt_007",
+    "store_name": "REWE",
+    "store_address": "Hannover",
+    "purchase_date": "2026-08-25",
+    "purchase_time": "19:45",
+    "currency": "EUR",
+    "items": [
+      {"raw_name": "MILCH 3,5%", "normalized_name": "Vollmilch", "quantity": 2, "unit_price": 1.29, "total_price": 2.58, "category": "Dairy"},
+      {"raw_name": "BANANEN", "normalized_name": "Bananen", "quantity": 1.0, "unit": "kg", "unit_price": 1.79, "total_price": 1.79, "category": "Fruit"},
+      {"raw_name": "GOUDA", "normalized_name": "Kaese", "quantity": 1, "unit_price": 2.79, "total_price": 2.79, "category": "Dairy"}
+    ],
+    "subtotal": 7.16, "tax": 0.47, "total": 7.16, "payment_method": "Card"
+  },
+  {
+    "receipt_id": "receipt_008",
+    "store_name": "Edeka",
+    "store_address": "Hannover",
+    "purchase_date": "2026-09-03",
+    "purchase_time": "16:15",
+    "currency": "EUR",
+    "items": [
+      {"raw_name": "BUTTER", "normalized_name": "Butter", "quantity": 1, "unit_price": 2.19, "total_price": 2.19, "category": "Dairy"},
+      {"raw_name": "APFEL", "normalized_name": "Apfel", "quantity": 1.0, "unit": "kg", "unit_price": 2.49, "total_price": 2.49, "category": "Fruit"},
+      {"raw_name": "JOGHURT NATUR", "normalized_name": "Joghurt", "quantity": 3, "unit_price": 1.09, "total_price": 3.27, "category": "Dairy"}
+    ],
+    "subtotal": 7.95, "tax": 0.52, "total": 7.95, "payment_method": "Cash"
+  }
+]

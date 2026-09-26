@@ -25,6 +25,7 @@ ollama
 # --- Giao dien & bieu do ---
 streamlit
 plotly
- 
+
 # --- Testing ---
 pytest
+langchain-ollama

@@ -4,8 +4,8 @@ python-dotenv
 # --- Xu ly anh & OCR ---
 opencv-python
 Pillow
-pytesseract
-# paddleocr          # phuong an thay the cho pytesseract - team chon 1 trong 2 roi bo comment dong tuong ung
+# pytesseract
+paddleocr          # phuong an thay the cho pytesseract - team chon 1 trong 2 roi bo comment dong tuong ung
 PyMuPDF             # doc file PDF hoa don, convert sang anh de OCR
  
 # --- Data validation & processing ---
